@@ -8,6 +8,11 @@ An archive of most CheatBreaker versions made over the years.
 2. CheatBreaker 2017 *(Discontinued)*:
 
     A version of CheatBreaker released by the MineHQ Team and jhalt in 2017.
+    
+    - Changed the menu
+    - Removed Streamer Mode
+    - Changed pause menu logo
+    - Removed bug report button
 
 3. CheatBreaker+ *(Discontinued)*:
 
