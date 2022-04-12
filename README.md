@@ -30,6 +30,9 @@ An archive of most CheatBreaker versions made over the years.
     The most well-known CheatBreaker project by far. 1.8 is partially skidded from Lunar Client.
   
     https://offlinecheatbreaker.com
+7. Tellinq CheatBreaker *(Actively Developed)*:
+
+    The best CheatBreaker, ever. Tellinq's CheatBreaker is highly optimized and performant. https://discord.gg/ZuDSXta2hu
 
 
 Grab the downloads in the Releases tab!
