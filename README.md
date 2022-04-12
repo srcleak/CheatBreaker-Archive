@@ -13,6 +13,8 @@ An archive of most CheatBreaker versions made over the years.
     - Removed Streamer Mode
     - Changed pause menu logo
     - Removed bug report button
+    - Added Motion Blur
+    - Added Overlay GUI
 
 3. CheatBreaker+ *(Discontinued)*:
 
